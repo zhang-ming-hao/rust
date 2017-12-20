@@ -1,5 +1,3 @@
-# rust
-Rust学习笔记
+# 目录说明
 
-note: md格式的笔记  
-code: 示例代码
+* LearningNotes 学习笔记
