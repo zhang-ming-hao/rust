@@ -1,0 +1,7 @@
+[package]
+name = "benchit"
+version = "0.1.0"
+authors = ["zhang-ming-hao <zhang_mh@outlook.com>"]
+
+[dependencies]
+rand = "0.4.2"
